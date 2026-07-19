@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# Include documentation
+!README.md
+!LICENSE
+
+# Include preview images
+!mockup.webp
+
+# Include Git ignore itself
+!.gitignore
